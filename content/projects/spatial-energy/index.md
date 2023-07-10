@@ -3,7 +3,7 @@ title: "Spatial Energy Planning WebGIS"
 date: 2022-10-01
 date: 2022-10-01
 draft: false
-summary: "An offline content server for offgrid locations."
+summary: "WebGIS application and dashboard for spatial energy planning."
 slug: "spatial-energy-planning"
 tags: ["GIS", "Web"]
 showDateUpdated: true
