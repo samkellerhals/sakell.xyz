@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Samuel Kellerhals"
-  image = "img/me.jpg"
+  image = "img/me.png"
   #headline = ""
   #bio = "A little bit about you"
   links = [
